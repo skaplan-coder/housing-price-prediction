@@ -60,7 +60,7 @@ The script expects a CSV file named `housing.csv` in the same folder.
 
 ```bash
 
-git clone https://github.com/your-username/housing-price-prediction.git
+git clone https://github.com/skaplan-coder/housing-price-prediction.git
 
 
 
